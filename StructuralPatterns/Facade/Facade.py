@@ -1,5 +1,5 @@
 """ In the programming world, the "outward appearance" is the class or interface we interact with as programmers. And the "less pleasant reality" is the complexity that is hidden from us.
-So a Facade, is simply a  wrapper class that can be  used to abstract lower-level details that we don't want to worry about. """
+So a Facade, is simply a  wrapper class that can  be  used to abstract lower-level details that we don't want to worry about. """
 
 
 # Python arrays are dynamic by default, but this is an example of resizing.
