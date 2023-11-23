@@ -17,6 +17,7 @@ class UsbPort:
             usb.plugUsb()
             self.portAvailable = False
 
+
 # UsbCables can plug directly into Usb ports
 usbCable = UsbCable()
 usbPort1 = UsbPort()
