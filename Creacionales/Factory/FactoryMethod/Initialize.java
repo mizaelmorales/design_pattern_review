@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.FactoryMethod;
-
 import java.util.Scanner;
 
 public class Initialize {

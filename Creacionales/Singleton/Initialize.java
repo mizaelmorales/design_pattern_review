@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Singleton;
-
 public class Initialize {
     public static void main(String[] args) {
         Database foo = Database.getInstance();

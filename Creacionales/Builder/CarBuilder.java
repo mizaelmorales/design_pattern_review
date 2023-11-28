@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Builder;
-
 public class CarBuilder implements Builder {
     
     private Car car;

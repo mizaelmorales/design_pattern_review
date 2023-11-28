@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.Factory1;
-
 public class BurguerFactory {
     
     public Burguer createCheeseBurger() {

@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.extraFactoryExample;
-
 public class extraFactoryExample {
 
 

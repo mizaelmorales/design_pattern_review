@@ -1,7 +1,4 @@
-package GIT.Patrones.Creacionales.AbstractFactory;
-
 import java.util.Scanner;
-
 
 public class Initialize {
     public static void main(String[] args) {

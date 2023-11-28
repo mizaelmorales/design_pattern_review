@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Prototype;
-
 public class Rectangle extends Shape {
 
     protected int width;

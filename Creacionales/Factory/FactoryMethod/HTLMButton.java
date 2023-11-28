@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.FactoryMethod;
-
 public class HTLMButton implements Button {
 
     public void render(){

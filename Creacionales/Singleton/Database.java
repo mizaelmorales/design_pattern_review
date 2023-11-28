@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Singleton;
-
 public class Database {
 
     private static Database instance;

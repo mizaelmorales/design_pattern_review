@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.Factory1;
-
 public class Burguer {
     private String[] ingredients;
 

@@ -1,4 +1,3 @@
-package GIT.Patrones.Creacionales.Factory.Factory1;
 import java.util.Arrays;
 public class TestFactory {
     public static void main(String[] args) {

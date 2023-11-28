@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Builder;
-
 public class CarManualBuilder {
         private Manual manual;
         private Manual product;

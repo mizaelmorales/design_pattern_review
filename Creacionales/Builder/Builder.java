@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Builder;
-
 public interface Builder {
     void reset();
     void setSeats();

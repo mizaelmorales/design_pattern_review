@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.Prototype;
-
 import java.util.ArrayList;
 
 public class Application {

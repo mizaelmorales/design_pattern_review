@@ -1,5 +1,3 @@
-package GIT.Patrones.Creacionales.AbstractFactory;
-
 public class WinButton implements Button {
 
     public void paint() {
